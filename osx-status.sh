@@ -1,1 +1,1 @@
-{"result":"OKX"}
+{"result":"OK"}
